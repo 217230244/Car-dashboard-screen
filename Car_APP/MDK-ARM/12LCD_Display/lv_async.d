@@ -1,0 +1,13 @@
+12lcd_display\lv_async.o: ..\midware\lvgl\src\misc\lv_async.c
+12lcd_display\lv_async.o: ..\midware\lvgl\src\misc\lv_async.h
+12lcd_display\lv_async.o: ..\midware\lvgl\src\misc\lv_types.h
+12lcd_display\lv_async.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdint.h
+12lcd_display\lv_async.o: ..\midware\lvgl\src\misc\lv_mem.h
+12lcd_display\lv_async.o: ..\midware\lvgl\src\misc\../lv_conf_internal.h
+12lcd_display\lv_async.o: ..\midware\lvgl\src\misc\../lv_conf_kconfig.h
+12lcd_display\lv_async.o: ../midware/lvgl/examples/porting/../../lv_conf.h
+12lcd_display\lv_async.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stddef.h
+12lcd_display\lv_async.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\string.h
+12lcd_display\lv_async.o: ..\midware\lvgl\src\misc\lv_timer.h
+12lcd_display\lv_async.o: ..\midware\lvgl\src\misc\../hal/lv_hal_tick.h
+12lcd_display\lv_async.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdbool.h

@@ -1,0 +1,13 @@
+12lcd_display\lv_tlsf.o: ..\midware\lvgl\src\misc\lv_tlsf.c
+12lcd_display\lv_tlsf.o: ..\midware\lvgl\src\misc\../lv_conf_internal.h
+12lcd_display\lv_tlsf.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdint.h
+12lcd_display\lv_tlsf.o: ..\midware\lvgl\src\misc\../lv_conf_kconfig.h
+12lcd_display\lv_tlsf.o: ../midware/lvgl/examples/porting/../../lv_conf.h
+12lcd_display\lv_tlsf.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\limits.h
+12lcd_display\lv_tlsf.o: ..\midware\lvgl\src\misc\lv_tlsf.h
+12lcd_display\lv_tlsf.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stddef.h
+12lcd_display\lv_tlsf.o: ..\midware\lvgl\src\misc\lv_mem.h
+12lcd_display\lv_tlsf.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\string.h
+12lcd_display\lv_tlsf.o: ..\midware\lvgl\src\misc\lv_types.h
+12lcd_display\lv_tlsf.o: ..\midware\lvgl\src\misc\lv_log.h
+12lcd_display\lv_tlsf.o: ..\midware\lvgl\src\misc\lv_assert.h

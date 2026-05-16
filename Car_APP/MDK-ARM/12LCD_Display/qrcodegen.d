@@ -1,0 +1,15 @@
+12lcd_display\qrcodegen.o: ..\midware\lvgl\src\extra\libs\qrcode\qrcodegen.c
+12lcd_display\qrcodegen.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\limits.h
+12lcd_display\qrcodegen.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdlib.h
+12lcd_display\qrcodegen.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\string.h
+12lcd_display\qrcodegen.o: ..\midware\lvgl\src\extra\libs\qrcode\qrcodegen.h
+12lcd_display\qrcodegen.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdbool.h
+12lcd_display\qrcodegen.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stddef.h
+12lcd_display\qrcodegen.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdint.h
+12lcd_display\qrcodegen.o: ..\midware\lvgl\src\extra\libs\qrcode\../../../misc/lv_assert.h
+12lcd_display\qrcodegen.o: ..\midware\lvgl\src\extra\libs\qrcode\../../../misc/../lv_conf_internal.h
+12lcd_display\qrcodegen.o: ..\midware\lvgl\src\extra\libs\qrcode\../../../misc/../lv_conf_kconfig.h
+12lcd_display\qrcodegen.o: ../midware/lvgl/examples/porting/../../lv_conf.h
+12lcd_display\qrcodegen.o: ..\midware\lvgl\src\extra\libs\qrcode\../../../misc/lv_log.h
+12lcd_display\qrcodegen.o: ..\midware\lvgl\src\extra\libs\qrcode\../../../misc/lv_types.h
+12lcd_display\qrcodegen.o: ..\midware\lvgl\src\extra\libs\qrcode\../../../misc/lv_mem.h

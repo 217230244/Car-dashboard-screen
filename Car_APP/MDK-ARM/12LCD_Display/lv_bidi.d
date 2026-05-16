@@ -1,0 +1,17 @@
+12lcd_display\lv_bidi.o: ..\midware\lvgl\src\misc\lv_bidi.c
+12lcd_display\lv_bidi.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stddef.h
+12lcd_display\lv_bidi.o: ..\midware\lvgl\src\misc\lv_bidi.h
+12lcd_display\lv_bidi.o: ..\midware\lvgl\src\misc\../lv_conf_internal.h
+12lcd_display\lv_bidi.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdint.h
+12lcd_display\lv_bidi.o: ..\midware\lvgl\src\misc\../lv_conf_kconfig.h
+12lcd_display\lv_bidi.o: ../midware/lvgl/examples/porting/../../lv_conf.h
+12lcd_display\lv_bidi.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdbool.h
+12lcd_display\lv_bidi.o: ..\midware\lvgl\src\misc\lv_txt.h
+12lcd_display\lv_bidi.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdarg.h
+12lcd_display\lv_bidi.o: ..\midware\lvgl\src\misc\lv_area.h
+12lcd_display\lv_bidi.o: ..\midware\lvgl\src\misc\../font/lv_font.h
+12lcd_display\lv_bidi.o: ..\midware\lvgl\src\misc\../font/lv_symbol_def.h
+12lcd_display\lv_bidi.o: ..\midware\lvgl\src\misc\lv_printf.h
+12lcd_display\lv_bidi.o: ..\midware\lvgl\src\misc\lv_types.h
+12lcd_display\lv_bidi.o: ..\midware\lvgl\src\misc\../misc/lv_mem.h
+12lcd_display\lv_bidi.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\string.h

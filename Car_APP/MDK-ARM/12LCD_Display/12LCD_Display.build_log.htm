@@ -1,0 +1,85 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.36.0.0
+Copyright (C) 2021 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: 1 11, 1, LIC=NQQMA-1H5VG-740S0-BABWT-SA4NK-4PDB0
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.36.0.0
+Toolchain Path:  C:\Keil_v532\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 7 (build 960)
+Assembler:       Armasm.exe V5.06 update 7 (build 960)
+Linker/Locator:  ArmLink.exe V5.06 update 7 (build 960)
+Library Manager: ArmAr.exe V5.06 update 7 (build 960)
+Hex Converter:   FromElf.exe V5.06 update 7 (build 960)
+CPU DLL:         SARMCM3.DLL V5.36.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.9.0
+Dialog DLL:      TCM.DLL V1.53.0.0
+ 
+<h2>Project:</h2>
+D:\uint3code\32Car_APP\MDK-ARM\12LCD_Display.uvprojx
+Project File Date:  01/06/2025
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'C:\Keil_v532\ARM\ARMCC\Bin'
+Build target '12LCD_Display'
+compiling can_handle.c...
+..\BSP\Canif\can_handle.c(187): warning:  #1-D: last line of file ends without a newline
+  }
+..\BSP\Canif\can_handle.c: 1 warning, 0 errors
+compiling main.c...
+..\BSP\inter_flashif\inter_flashif.h(16): warning:  #1-D: last line of file ends without a newline
+  #endif /* __INTER_FLASHIF_H__ */
+..\BSP\inter_flashif\inter_flash_cfg.h(23): warning:  #1295-D: Deprecated declaration inter_flash_cfg_get_app_update_flag - give arg types
+  int8_t inter_flash_cfg_get_app_update_flag();
+..\BSP\inter_flashif\inter_flash_cfg.h(27): warning:  #1-D: last line of file ends without a newline
+  #endif /* __INTER_FLASH_H__ */
+../Core/Src/main.c: 3 warnings, 0 errors
+linking...
+Program Size: Code=157064 RO-data=162760 RW-data=704 ZI-data=61888  
+FromELF: creating hex file...
+After Build - User command #1: D:\uint3code\24Lvgl_Dashboard\Keil5_disp_size_bar.exe
+[Keil5_disp_size_bar V0.4]: find project satrt!
+[Keil5_disp_size_bar V0.4]: Found file: .//12LCD_Display.uvprojx
+[Keil5_disp_size_bar V0.4]: Found file: .//12LCD_Display.uvprojx
+[Keil5_disp_size_bar V0.4]: find map file start
+[Keil5_disp_size_bar V0.4]: Found file: .//12LCD_Display/12LCD_Display.map
+[Keil5_disp_size_bar V0.4]: map file read end
+ram:
+   64 KB   ram1:|¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö_| 95.51 % (   61.13 KB /    64.00 KB) [2944 B]
+flash:
+  480 KB flash1:|¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö_______| 65.07 % (  312.33 KB /   480.00 KB) [171696 B]
+ 
+After Build - User command #2: fromelf.exe --bin -o "APP_Car.bin" "12LCD_Display\12LCD_Display.axf"
+"12LCD_Display\12LCD_Display.axf" - 0 Error(s), 4 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.9.0.pack
+                ARM.CMSIS.5.9.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.6.0
+
+Package Vendor: Keil
+                https://www.keil.com/pack/Keil.STM32F1xx_DFP.2.4.1.pack
+                Keil.STM32F1xx_DFP.2.4.1
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_12LCD_Display
+  C:\Users\Administrator\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include
+  C:\Users\Administrator\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.6.0
+      Include file:  CMSIS\Core\Include\tz_context.h
+Build Time Elapsed:  00:00:06
+</pre>
+</body>
+</html>

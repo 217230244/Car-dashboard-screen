@@ -1,0 +1,10 @@
+12lcd_display\lv_printf.o: ..\midware\lvgl\src\misc\lv_printf.c
+12lcd_display\lv_printf.o: ..\midware\lvgl\src\misc\lv_printf.h
+12lcd_display\lv_printf.o: ..\midware\lvgl\src\misc\../lv_conf_internal.h
+12lcd_display\lv_printf.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdint.h
+12lcd_display\lv_printf.o: ..\midware\lvgl\src\misc\../lv_conf_kconfig.h
+12lcd_display\lv_printf.o: ../midware/lvgl/examples/porting/../../lv_conf.h
+12lcd_display\lv_printf.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdarg.h
+12lcd_display\lv_printf.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stddef.h
+12lcd_display\lv_printf.o: ..\midware\lvgl\src\misc\lv_types.h
+12lcd_display\lv_printf.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdbool.h

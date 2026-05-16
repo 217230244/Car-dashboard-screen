@@ -1,0 +1,16 @@
+12lcd_display\lv_font.o: ..\midware\lvgl\src\font\lv_font.c
+12lcd_display\lv_font.o: ..\midware\lvgl\src\font\lv_font.h
+12lcd_display\lv_font.o: ..\midware\lvgl\src\font\../lv_conf_internal.h
+12lcd_display\lv_font.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdint.h
+12lcd_display\lv_font.o: ..\midware\lvgl\src\font\../lv_conf_kconfig.h
+12lcd_display\lv_font.o: ../midware/lvgl/examples/porting/../../lv_conf.h
+12lcd_display\lv_font.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stddef.h
+12lcd_display\lv_font.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdbool.h
+12lcd_display\lv_font.o: ..\midware\lvgl\src\font\lv_symbol_def.h
+12lcd_display\lv_font.o: ..\midware\lvgl\src\font\../misc/lv_area.h
+12lcd_display\lv_font.o: ..\midware\lvgl\src\font\../misc/lv_utils.h
+12lcd_display\lv_font.o: ..\midware\lvgl\src\font\../misc/lv_log.h
+12lcd_display\lv_font.o: ..\midware\lvgl\src\font\../misc/lv_types.h
+12lcd_display\lv_font.o: ..\midware\lvgl\src\font\../misc/lv_assert.h
+12lcd_display\lv_font.o: ..\midware\lvgl\src\font\../misc/lv_mem.h
+12lcd_display\lv_font.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\string.h

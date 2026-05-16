@@ -1,0 +1,14 @@
+12lcd_display\lv_anim_timeline.o: ..\midware\lvgl\src\misc\lv_anim_timeline.c
+12lcd_display\lv_anim_timeline.o: ..\midware\lvgl\src\misc\lv_anim_timeline.h
+12lcd_display\lv_anim_timeline.o: ..\midware\lvgl\src\misc\lv_anim.h
+12lcd_display\lv_anim_timeline.o: ..\midware\lvgl\src\misc\../lv_conf_internal.h
+12lcd_display\lv_anim_timeline.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdint.h
+12lcd_display\lv_anim_timeline.o: ..\midware\lvgl\src\misc\../lv_conf_kconfig.h
+12lcd_display\lv_anim_timeline.o: ../midware/lvgl/examples/porting/../../lv_conf.h
+12lcd_display\lv_anim_timeline.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stdbool.h
+12lcd_display\lv_anim_timeline.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\stddef.h
+12lcd_display\lv_anim_timeline.o: ..\midware\lvgl\src\misc\lv_mem.h
+12lcd_display\lv_anim_timeline.o: C:\Keil_v532\ARM\ARMCC\Bin\..\include\string.h
+12lcd_display\lv_anim_timeline.o: ..\midware\lvgl\src\misc\lv_types.h
+12lcd_display\lv_anim_timeline.o: ..\midware\lvgl\src\misc\lv_assert.h
+12lcd_display\lv_anim_timeline.o: ..\midware\lvgl\src\misc\lv_log.h
