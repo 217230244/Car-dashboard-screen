@@ -31,11 +31,7 @@
 
 ##  代码目录结构
 
-├── 29C8T6_Send_OK/       # VCU节点UI数据收发固件（C8T6）
-├── 31usb_tool/           # USB升级器固件（C8T6）
-├── 32Car_APP/            # 仪表中控屏主应用APP（ZET6）
-├── 34Bootloader/         # 仪表中控屏Bootloader（ZET6）
-└── 固件/                 # 编译生成的bin/hex固件文件
+├── 29C8T6_Send_OK/ # VCU 节点 UI 数据收发固件（C8T6）├── 31usb_tool/ # USB 升级器固件（C8T6）├── 32Car_APP/ # 仪表中控屏主应用 APP（ZET6）├── 34Bootloader/ # 仪表中控屏 Bootloader（ZET6）└── 固件 / # 编译生成的 bin/hex 固件文件
 
 ---
 
